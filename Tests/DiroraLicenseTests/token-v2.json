@@ -1,0 +1,42 @@
+{
+  "kid": "65b60673d6ed884b",
+  "public_key_hex": "79b5562e8fe654f94078b112e8a98ba7901f853ae695bed7e0e3910bad049664",
+  "response": {
+    "data": {
+      "alg": "Ed25519",
+      "kid": "65b60673d6ed884b",
+      "payload": "eyJ2IjoyLCJsaWNlbnNlX2lkIjoiOGYxZTRjMmEtMTExMS00MjIyLTgzMzMtOTQ0NDU1NTU2NjY2IiwicHJvZHVjdF9pZCI6IjBkNmI3ZjNlLWFhYWEtNGJiYi04Y2NjLWRkZGQwMDAwMTExMSIsInRlbmFudF9pZCI6IjExMTExMTExLTIyMjItMzMzMy00NDQ0LTU1NTU1NTU1NTU1NSIsIm1hY2hpbmVfZmluZ2VycHJpbnQiOiIzZjFkMmM4ZTliMGE0ZDVmNmU3YzhiOWEwZDFlMmYzYTRiNWM2ZDdlOGY5YTBiMWMyZDNlNGY1YTZiN2M4ZDllIiwic3RhdHVzIjoidmFsaWQiLCJsaWNlbnNlX3R5cGUiOiJwZXJwZXR1YWwiLCJ1cGRhdGVzX3BvbGljeSI6InRlcm0iLCJ1cGRhdGVzX3VudGlsIjoiMjAyNy0wNi0zMFQyMzo1OTo1OVoiLCJzdXBwb3J0X3BvbGljeSI6InRlcm0iLCJzdXBwb3J0X3VudGlsIjoiMjAyNy0wNi0zMFQyMzo1OTo1OVoiLCJmZWF0dXJlcyI6WyJwcm8iLCJleHBvcnQiXSwiaXNzdWVkX2F0IjoiMjAyNi0xMS0yNlQxMDowMDowMFoiLCJjaGVja2luX2FmdGVyIjoiMjAyNi0xMi0wM1QxMDowMDowMFoiLCJ2YWxpZF91bnRpbCI6IjIwMjYtMTItMTBUMTA6MDA6MDBaIiwibm9uY2UiOiJuLTEyMyIsImxpY2Vuc2VfbW9kZWwiOiJub2RlX2xvY2tlZCIsImF1dGgiOiJrZXkiLCJzZWF0cyI6MX0=",
+      "signature": "gmbgVKQ1taYKYhYIE/0fT9Vefi0FdV4DBcUw4YluY+LpdUA9aaZDGwZ15rBPSjNKcOduXhVnjemMDsW5VvCBCw==",
+      "token": {
+        "v": 2,
+        "license_id": "8f1e4c2a-1111-4222-8333-944455556666",
+        "product_id": "0d6b7f3e-aaaa-4bbb-8ccc-dddd00001111",
+        "tenant_id": "11111111-2222-3333-4444-555555555555",
+        "machine_fingerprint": "3f1d2c8e9b0a4d5f6e7c8b9a0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e",
+        "status": "valid",
+        "license_type": "perpetual",
+        "updates_policy": "term",
+        "updates_until": "2027-06-30T23:59:59Z",
+        "support_policy": "term",
+        "support_until": "2027-06-30T23:59:59Z",
+        "features": [
+          "pro",
+          "export"
+        ],
+        "issued_at": "2026-11-26T10:00:00Z",
+        "checkin_after": "2026-12-03T10:00:00Z",
+        "valid_until": "2026-12-10T10:00:00Z",
+        "nonce": "n-123",
+        "license_model": "node_locked",
+        "auth": "key",
+        "seats": 1
+      }
+    }
+  },
+  "update_manifest": {
+    "alg": "Ed25519",
+    "kid": "65b60673d6ed884b",
+    "payload": "eyJ2IjoxLCJraW5kIjoidXBkYXRlIiwibGljZW5zZV9pZCI6IjhmMWU0YzJhLTExMTEtNDIyMi04MzMzLTk0NDQ1NTU1NjY2NiIsInByb2R1Y3RfaWQiOiIwZDZiN2YzZS1hYWFhLTRiYmItOGNjYy1kZGRkMDAwMDExMTEiLCJtYWNoaW5lX2ZpbmdlcnByaW50IjoiM2YxZDJjOGU5YjBhNGQ1ZjZlN2M4YjlhMGQxZTJmM2E0YjVjNmQ3ZThmOWEwYjFjMmQzZTRmNWE2YjdjOGQ5ZSIsInVwZGF0ZV9hdmFpbGFibGUiOnRydWUsImxhdGVzdCI6eyJ2ZXJzaW9uIjoiMi41LjAiLCJjaGFubmVsIjoic3RhYmxlIiwicmVsZWFzZWRfYXQiOiIyMDI3LTAxLTE1VDAwOjAwOjAwWiIsImZpbGVfaWQiOiJmLTEiLCJmaWxlX25hbWUiOiJhcHAtMi41LjAuemlwIiwiZmlsZV9zaXplIjo2LCJzaGEyNTYiOiI5YTNhNDVkMDE1MzFhMjBlODlhYzZhZTEwYjBiMGJlYjA0OTJhY2Q3MjE2YTM2OGFhMDYyZDFhNWZlY2FmOWNkIn0sIm5ld2VyX2Jsb2NrZWQiOm51bGwsImlzc3VlZF9hdCI6IjIwMjYtMTEtMjZUMTA6MDA6MDBaIiwibm9uY2UiOiJtLTEifQ==",
+    "signature": "4BJ4g2F0+sCEzw+uxyMK9evB+ELPC3q5mdaZ5GfGO//Tbd8utKgaQtGPSbub4sqxKq0R1NVISxnRdN83krnVCA=="
+  }
+}
